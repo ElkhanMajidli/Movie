@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab4bda97-9108-4ff3-94a3-8973ee80bd38" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Er2kwUTGWuUsRqdwszINJmOXXu" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Movie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotUserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotUserMain" />
+      <module name="Movie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NotUserMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4bda97-9108-4ff3-94a3-8973ee80bd38" name="Default Changelist" comment="" />
+      <created>1663339528684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663339528684</updated>
+      <workItem from="1663339532406" duration="8481000" />
+      <workItem from="1663386944705" duration="4271000" />
+      <workItem from="1663392905912" duration="1909000" />
+      <workItem from="1663427535917" duration="601000" />
+      <workItem from="1663497590500" duration="2840000" />
+      <workItem from="1663515279851" duration="4476000" />
+      <workItem from="1663551648672" duration="4744000" />
+      <workItem from="1663594121454" duration="28000" />
+      <workItem from="1663605345598" duration="58000" />
+      <workItem from="1663645132126" duration="13840000" />
+      <workItem from="1663680194622" duration="69000" />
+      <workItem from="1663682717562" duration="1198000" />
+      <workItem from="1663740602179" duration="40000" />
+      <workItem from="1663740879422" duration="501000" />
+      <workItem from="1663775166469" duration="18000" />
+      <workItem from="1663955371656" duration="202000" />
+      <workItem from="1663999238184" duration="15000" />
+      <workItem from="1664336420731" duration="19000" />
+      <workItem from="1664336556976" duration="82000" />
+      <workItem from="1664336805846" duration="76000" />
+      <workItem from="1664471376899" duration="4000" />
+      <workItem from="1664604290660" duration="862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
