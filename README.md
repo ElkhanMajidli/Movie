@@ -1,0 +1,2 @@
+# Movie
+A console program that allows the user to register or log into his account, later on after logging in he can increase his balance, view the list of films on the site, go to them to find out about the film, if the user likes it, he can buy a ticket to the film if no, he can return to the movie list and repeat the movie purchase operation. at the moment, my knowledge allows me to create only such programs  P.S Since the beginning of Java studies, it has been one since half a month
